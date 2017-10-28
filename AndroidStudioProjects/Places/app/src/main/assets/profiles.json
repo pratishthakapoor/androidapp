@@ -1,0 +1,72 @@
+[
+  {
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGLr61NRPVDXYaohGnSH1YSB8Z8SKL5Iwt9kLrFBGeraueoxmZ1A",
+	"name":"REYKJAVÍK",
+	"location":"Iceland",
+	"description":"Reykjavík is known for the city’s arts scene, cool nightlife and the slew of natural wonders that lie right on its doorstep. ",
+	"weather":"8°C, Wind NW at 24 km/h, 87% Humidity"
+  },
+	 { "name": "Mexico City",
+		 "location": "Mexico",
+		 "description": "Hip neighbourhoods, incredible architecture, humble street markets and an eclectic culture combine in this frenetic, lovable city ",
+		 "weather": "17°C, Wind N at 0 km/h, 74% Humidity",
+		 "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8m3VXX7dd2Q0u0BOU9liNX0i1CEmncerpKZsAHBRmXHxQ2jDx"
+
+	 },
+  {
+    "url":"http://www.lonelyplanet.com/travel-blog/tip-article/wordpress_uploads/2016/09/shutterstock_407897917-lotte-world-tower-seoul-61bbde30f1cf.jpg",
+	"name":"Seoul",
+	"location": "South Korea",
+	"description" : "Seoul has a vibrant underbelly of ultra-cool that much of the world is just beginning to discover.Far more than just chic cafés and Korean craft brews, the city is home to graffiti-covered basement bars and hidden restaurants serving both traditional and fusion cuisines",
+	"weather" : "22°C, Wind W at 8 km/h, 47% Humidity"
+  },
+    {
+    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysHOuRIZM9P1-o1OMwio9w9_hG2Oa2z1hg2khYKkVlpClq32cKQ",
+	"name" : "Ljubljana",
+	"location" : "Slovenia",
+	"description" : "Winning the well-deserved accolade of European Green Capital of 2016, the elegant Slovenian capital boasts a wealth of green spaces",
+	"weather" : "12°C, Wind S at 2 km/h, 78% Humidity"
+  },
+  {
+    "url" : "http://www.wroclaw.pl/files/_newmain/img/rynek.jpg",
+	"name" : "Wroclaw",
+	"location" : "Poland",
+	"description" : "After a devastating flood in the 1990s Wroclaw was painstakingly rebuilt – its mammoth Germanic churches, Flemish-style mansions and Baroque palaces have been restored to their former glory. ",
+	"weather" : "13°C, Wind NW at 13 km/h, 78% Humidity"
+  },
+  { 
+    "url" : "http://www.visitmusiccity.com/Content/cms/uploads/Afar500x289.png",
+	"name" : "Nashville",
+	"location" : "USA",
+	"description" : "Nashville’s soul remains unchanged: a fierce love of southern cooking and deep passion for music – especially live music – still prevail.",
+	"weather" : "21°C, Wind N at 0 km/h, 87% Humidity"
+  },
+  {
+    "url" : "https://lonelyplanetimages.imgix.net/mastheads/stock-photo-beautiful-amsterdam-76796579.jpg?sharp=10&vib=20&w=1200",
+	"name" : "Amsterdam",
+	"location" : "The Netherlands",
+	"description" : " The city is well prepared, with revamped museums, a state-of-the-art film institute and a flourishing hub of avant-garde culture in the regenerated NDSM shipyard – a hangout housing restaurants, bars and a skatepark.",
+	"weather" : "16°C, Wind S at 13 km/h, 78% Humidity"
+  },
+  {
+    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJnYKeW0e4-ARNMJLtucPW5RzIWLVxh9_f7coJm-oo2su5AtSfZw",
+	"name" : "Hull",
+	"location" : "England",
+	"description" : "It’ll be brimming with new hotels and restaurants, and even more of that distinctive home-grown creativity the city has always had",
+	"weather" : "13°C, Wind S at 13 km/h, 86% Humidity"
+  },
+  {
+    "url" : "http://res.cloudinary.com/simpleview/image/upload/v1486505969/clients/vancouverbc/Aerial_Sunset_Vancouver_d3_copy_1bb86ed0-1edc-4cda-841d-0b033ca0bb72.jpg",
+	"name" : "Vancouver",
+	"location" : "Canada, British Columbia",
+	"description" : "Though certainly Canada’s most liveable metropolis, with a temperate climate and wraparound views of snow-capped peaks, it’s also the country’s most expensive.",
+	"weather" : "10°C, Wind NE at 5 km/h, 96% Humidity"
+  },
+  {
+    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSHikiEmy0Qc2MCkN6oCQv3PHaNGln_0EA9_3YcsSJcngB55xsA",
+	"name" : "Agra",
+	"location" : "India",
+	"description" : "India’s majestic former Mughal capital is too often experienced in brief as a traveller’s day trip from Delhi to the Taj Mahal. But there’s much more to enjoy here: extravagant monuments and tombs lining the Yamuna River bank, the Taj Mahotsav arts festival held in February and the crumbling Mughal gardens dotted across the city.",
+	"weather" : "34°C, Wind NE at 6 km/h, 58% Humidity"
+  }
+]
