@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "530708500519",
+    "firebase_url": "https://gomovie-155310.firebaseio.com",
+    "project_id": "gomovie-155310",
+    "storage_bucket": "gomovie-155310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530708500519:android:47055c0294cad2dc",
+        "android_client_info": {
+          "package_name": "in.co.gomovie.gomovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530708500519-noaed3gpn1575dintdq23ulr9qe29re0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-T9gCu3Yg_WkVVLvrOwp5e_Xevs1z9k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

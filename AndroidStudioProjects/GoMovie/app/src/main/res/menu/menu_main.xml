@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_feed"
+        android:enabled="true"
+        android:icon="@drawable/ic_view_list_black_24dp"
+        android:title="Feed"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_discover"
+        android:enabled="true"
+        android:icon="@drawable/ic_theaters_black_24dp"
+        android:title="Discover"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_account"
+        android:enabled="true"
+        android:icon="@drawable/ic_account"
+        android:title="Account"
+        app:showAsAction="ifRoom" />
+</menu>

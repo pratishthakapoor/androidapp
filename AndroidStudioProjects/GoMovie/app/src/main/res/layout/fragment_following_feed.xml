@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e6e6e6"
+    tools:context="in.co.gomovie.gomovieapp.ui.home.FeedsFragment.feedViewHolder.FollowingFeedFragment">
+
+    <com.mindorks.placeholderview.PlaceHolderView
+        android:id="@+id/following_feed_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></com.mindorks.placeholderview.PlaceHolderView>
+
+</FrameLayout>

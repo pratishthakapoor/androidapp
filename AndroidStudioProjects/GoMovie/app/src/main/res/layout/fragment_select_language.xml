@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:layout_margin="16dp"
+    tools:context="in.co.gomovie.gomovieapp.view.fragment.SelectLanguageFragment"
+    android:orientation="vertical">
+    
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Tell us what you would like to see?"
+        android:textSize="@dimen/primaryTextSize"
+        android:textColor="@color/whiteTextColor"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    
+</LinearLayout>

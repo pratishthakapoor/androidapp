@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="in.co.gomovie.gomovieapp.view.fragment.LoginFragment"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/whiteTextColor"
+        android:textSize="24sp"
+        android:text="Connect With Us"/>
+
+    <Button
+        android:id="@+id/button_facebook_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login with facebook"
+        android:layout_margin="16dp"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:padding="16dp"
+        android:textColor="@color/whiteTextColor"
+        android:textSize="18sp"
+        android:background="@drawable/loginfacebook" />
+
+
+</LinearLayout>

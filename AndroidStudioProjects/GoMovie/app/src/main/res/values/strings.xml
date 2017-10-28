@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gomovie App</string>
+    <string name="facebook_app_id">182498145448215</string>
+
+    <string name="fb_login_protocol_scheme">fb182498145448215</string>
+    <string name="text_login">Login</string>
+
+
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="slide_1_title">Slide 1 Title</string>
+    <string name="slide_1_desc">Description for slide 1</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_info">Movie Information</string>
+
+</resources>
